@@ -1,0 +1,12 @@
+﻿id,nomeProduto,qtdProduto,valorMovimentacao,dataMovimentacao
+1,Arroz,15,20.00,03/08/2024
+2,Feijão,15,8.90,03/08/2024
+3,Macarrão,20,7.50,03/08/2024
+4,Molho de Tomate,15,4.10,09/08/2024
+5,Refrigerante,10,7.90,09/08/2024
+6,Água Mineral,10,2.50,09/08/2024
+7,Salsicha,5,12.90,15/08/2024
+8,Detergente,10,1.20,15/08/2024
+9,Suco em Pó,10,0.75,15/08/2024
+10,Banana,4,3.99,20/08/2024
+11,Alface,15,1.50,20/08/2024
